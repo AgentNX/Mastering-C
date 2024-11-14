@@ -8,7 +8,7 @@ C is a powerful, general-purpose programming language developed in the early 197
 ## 1. History and Development
 
 - **Creation**: C was created as an evolution of the B language to help with UNIX operating system development.
-- **Standardization**: C was standardized by ANSI in 1989 (ANSI C, or C89), followed by ISO standards (C90, C99, C11).
+- **Standardization**: C was standardized by ANSI in 1989 (ANSI C, or C89), followed by ISO standards.
 - **Influence**: C’s syntax and structure have influenced many modern languages, making it essential for systems programming, embedded systems, and even application software.
 
 ## 2. Characteristics of C
