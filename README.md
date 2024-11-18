@@ -1,5 +1,5 @@
 # Mastering-C
-My Journey of Learning &amp; Mastering - The C Language
+Learning &amp; Mastering - The C Language
 
 # What is the C Language?
 
